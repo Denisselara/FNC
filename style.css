@@ -45,6 +45,7 @@ header {
 
 .align-left{
   text-align: left;
+  padding-left: 0;
 }
 
 .border{
@@ -110,7 +111,7 @@ padding-left: 30px;
 }
 
 .padding-right{
-  padding-right: 5vh;
+  padding-right: 3vh;
 }
 
 .padding-left{
@@ -179,7 +180,6 @@ h1{
 aside{
   background-color: #E5E8E8;
   padding: 2vh;
-  margin-right: 4vh;
 }
 
 aside span{
@@ -257,7 +257,7 @@ aside h1{
 
 .blog li{
   display: inline-block;
-  padding: 1vh;
+  padding: 0 1vh 1vh 0;
 }
 
 .blog ul{
@@ -268,4 +268,10 @@ aside h1{
 span{
   padding-left: 1vh;
   padding-right: 1vh;
+}
+
+.titulo-aside{
+  margin-left: 0;
+  margin-right: 0;
+
 }
