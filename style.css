@@ -122,6 +122,10 @@ padding-left: 30px;
   padding-bottom: 5vh;
 }
 
+.padding0{
+  padding: 0;
+}
+
 .rrss{
   padding-bottom: 5vh;
   height: 5vh;
@@ -200,6 +204,16 @@ aside h1{
   color: #36A0FF;
   padding-bottom: 2vh;
   text-align: left;
+}
+
+.color-text2{
+  color: #36A0FF;
+  padding-bottom: 2vh;
+  display: inline;
+}
+
+.center-block{
+  display: inline-block;
 }
 
 
